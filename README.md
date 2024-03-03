@@ -1,2 +1,2 @@
-- - This Notebook introduce new dimension called Inter-Purchase Time(T) to the traditional RFM (Recency, Frequency and Monatery) Model. New attribute "T" will include the customer dynamic purchasing behaviour within their shopping cycle.
-- - We applied the KMeans Algorithm to model the RFMT
+- This Notebook introduces a new dimension called Inter-Purchase Time(T) to the traditional RFM (Recency, Frequency, and Monatery) Model. The new attribute "T" will include the customer's dynamic purchasing behavior within their shopping cycle.
+- We applied the KMeans Algorithm to model the RFMT
